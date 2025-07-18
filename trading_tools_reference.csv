@@ -1,0 +1,15 @@
+Tool,Shortcut,Category,Primary Use,Difficulty,Best Market
+Trend Line,Alt + T,Lines,Trend identification,Beginner,Trending
+Ray,N/A,Lines,Future projections,Beginner,Any
+Info Line,N/A,Lines,Measurements,Beginner,Any
+Extended Line,N/A,Lines,Key levels,Beginner,Any
+Trend Angle,N/A,Lines,Trend strength,Intermediate,Trending
+Horizontal Line,Alt + H,Lines,Support/Resistance,Beginner,Any
+Horizontal Ray,Alt + J,Lines,Future levels,Beginner,Any
+Vertical Line,Alt + V,Lines,Time events,Beginner,Any
+Cross Line,Alt + C,Lines,Specific coordinates,Beginner,Any
+Parallel Channel,N/A,Channels,Range trading,Intermediate,Range-bound
+Regression Trend,N/A,Channels,Statistical analysis,Intermediate,Any
+Flat Top/Bottom,N/A,Channels,Breakout patterns,Advanced,Range-bound
+Disjoint Channel,N/A,Channels,Complex levels,Advanced,Complex
+Pitchfork,N/A,Pitchforks,Dynamic channels,Advanced,Trending
